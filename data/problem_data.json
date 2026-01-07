@@ -1,0 +1,8 @@
+{
+  "resources": {
+    "processor_time": {"smartphone": 2, "tablet": 3, "total": 240},
+    "ram": {"smartphone": 4, "tablet": 6, "total": 480},
+    "batteries": {"smartphone": 1, "tablet": 2, "total": 150}
+  },
+  "profit": {"smartphone": 8000, "tablet": 12000}
+}
