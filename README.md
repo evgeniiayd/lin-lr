@@ -1,9 +1,10 @@
 # Лабораторная работа - Линейное Программирование в Задачах Оптимизации
 ## Яблонская Евгения, ИВТ-1.2
 
-Результат:
+Результаты:
 <img width="1490" height="1009" alt="image" src="https://github.com/user-attachments/assets/ac5fadf0-114f-4f06-9d73-669121b213dc" />
 
+<img width="1273" height="951" alt="image" src="https://github.com/user-attachments/assets/de6b7f24-9d66-4d18-aa3b-1fc19077f893" />
 
 ## Задача оптимизации производства электроники («ТехноПром»)
 
